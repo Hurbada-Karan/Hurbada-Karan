@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 
-[![Portfolio](https://img.shields.io/badge/portfolio-005F73?style=for-the-badge&logo=about.me&logoColor=white)](https://karanbhanushalideepak.github.io/PORTFOLIO/)
+[![Portfolio](https://img.shields.io/badge/portfolio-005F73?style=for-the-badge&logo=about.me&logoColor=white)](https://Hurbada-Karan.github.io/PORTFOLIO/)
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-hurbada-23a238235?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
