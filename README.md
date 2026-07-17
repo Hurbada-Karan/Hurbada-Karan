@@ -27,4 +27,4 @@
 
 ## 📊 GitHub Stats:
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hurbada-Karan&layout=compact&theme=dark)](https://github.com/Hurbada-Karan/github-readme-stats)
+[![Karan's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Hurbada-Karan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
